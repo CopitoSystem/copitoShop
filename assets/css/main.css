@@ -74,7 +74,7 @@ a:not([href]):not([tabindex]) {
 
 .section-title {
   font-size: 30px;
-  color: #cd201f222;
+  color: #cd201f;
   display: inline-block;
   font-weight: 700;
   text-transform: uppercase;
